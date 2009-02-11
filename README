@@ -1,0 +1,2 @@
+django-private-parts is a reusable Django app that gives you the utilities to
+optionally display content/views based on user preference.
